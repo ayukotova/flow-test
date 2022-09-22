@@ -1,0 +1,13 @@
+{
+  "name": "flow",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^10.8.0"
+  }
+}
